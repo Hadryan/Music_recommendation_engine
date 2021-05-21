@@ -1,6 +1,6 @@
 # Music recommendation System
 This project was done as my bachelor thesis in statistics at Lund University. This is a reasearch project and was not meant to be deployed in any other way.
-All api info are removed, so to reproduce one would need to get their own api key
+All api info are removed, so to reproduce one would need to get their own api key from Spotify. The code is in notebooks, so the approach is more analytical and academic rather than actually deploying a recomender system. 
 
 To read the paper, please visit: https://lup.lub.lu.se/student-papers/search/publication/9027165
 
